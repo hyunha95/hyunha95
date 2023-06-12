@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=91a7ff&height=250&section=header&text=HI!%20I'm%20Hyunha!&fontSize=90&fontColor=ffffff" />
+
+### Contact
+<img src="https://img.shields.io/badge/nohyunha95@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### Skills
 #### ⭐️⭐️⭐️
@@ -15,7 +18,10 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 
 #### Interested In
-<img src="https://img.shields.io/badge/MSA-E40045?style=flat-square"/> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSA-E40045?style=flat-square"/> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Clean Architecture-73398D?style=flat-square"/> <img src="https://img.shields.io/badge/Web Flux-00085CA?style=flat-square"/>
+
+## Portfolios
+### Interri
 
 <!--
 **hyunha95/hyunha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
