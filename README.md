@@ -6,12 +6,14 @@
 
 
 ### Skills
-#### ⭐️⭐️⭐️
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,aws,docker,redis,git,github,githubactions,gitlab,gradle,maven,idea,linux,ubuntu,mysql,nginx)](https://skillicons.dev)
-
-#### ⭐️⭐️
-[![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,gcp,jenkins)](https://skillicons.dev)
-#### ⭐️
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+#### cloud
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+#### CICD
+[![My Skills](https://skillicons.dev/icons?i=githubactions,gitlabci,argocd)](https://skillicons.dev)
+#### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,elasticsearch,redis,mongodb)](https://skillicons.dev)
 
 - 🔭 I’m currently working on https://web-seven-teal-58.vercel.app/ (dev server)
 
