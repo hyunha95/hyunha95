@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,gcp,jenkins)](https://skillicons.dev)
 #### ⭐️
 
-- 🔭 I’m currently working on https://cuwist.com
+- 🔭 I’m currently working on https://web-seven-teal-58.vercel.app/ (dev server)
 
 <!--
 **hyunha95/hyunha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
