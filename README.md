@@ -7,15 +7,17 @@
 
 ### Skills
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+Java, Spring Boot
 #### cloud
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+AWS, ECR, ECS, Aws Batch, Cloud Front
+#### infra
+Spring cloud, k3s, helm
 #### CICD
-[![My Skills](https://skillicons.dev/icons?i=githubactions,gitlabci,argocd)](https://skillicons.dev)
+githubactions, gitlabci, argocd
 #### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,elasticsearch,redis,mongodb)](https://skillicons.dev)
+mysql, postgresql, elasticsearch, redis, mongodb
 
-- 🔭 I’m currently working on https://web-seven-teal-58.vercel.app/ (dev server)
+#### 🔭 I’m currently working on https://web-seven-teal-58.vercel.app/ (주식 정보 제공 사이트) (dev server)
 
 <!--
 **hyunha95/hyunha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
