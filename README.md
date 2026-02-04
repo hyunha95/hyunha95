@@ -17,7 +17,7 @@ githubactions, gitlabci, argocd
 #### Database
 mysql, postgresql, elasticsearch, redis, mongodb
 
-#### 🔭 I’m currently working on https://web-seven-teal-58.vercel.app/ (주식 정보 제공 사이트 - 개발 서버) (https://github.com/orgs/momenta-kr/repositories)
+#### 🔭 I’m currently working on https://momenta.kr (주식 정보 제공 사이트) (https://github.com/orgs/momenta-kr/repositories)
 
 <!--
 **hyunha95/hyunha95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
